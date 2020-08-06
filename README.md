@@ -5,5 +5,5 @@
 The Old Empires & Allies preservation project by the Raise the Empires team.
 This project is dedicated to preserving this Flash game so that it's not lost to time.
 
-[Original Source](https://github.com/AcidCaos/raisetheempires)
+[Main Repo](https://github.com/AcidCaos/raisetheempires)
 
