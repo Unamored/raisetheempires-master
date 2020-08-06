@@ -1,0 +1,47 @@
+{
+  "info": {
+    "uid": -14,
+    "resource": 3,
+    "coins": 100,
+    "xp": 93,
+    "level": 25,
+    "socialXpGood": 20,
+    "socialLevelGood": 25,
+    "socialXpBad": 0,
+    "socialLevelBad": 0,
+    "profilePic": "assets/game/characters/mercs/merc_cards.swf/ArmyCP_02_100.png",
+    "dominanceRank": 0,
+    "tending": {
+      "actions": 3
+    },
+    "inactive____pvpInfo": {"status":3, "ts": 1591142368, "pillTS":1591142368},
+    "pvpImmunityTimestamp": 1893456000
+  },
+  "friend": {
+    "zid": -14,
+    "uid": -14,
+    "first_name": "Cougar",
+    "name": "Cougar",
+    "sex": "M",
+    "portrait": "assets/game/characters/mercs/merc_cards.swf/ArmyCP_02_100.png",
+    "pic": "assets/game/characters/mercs/merc_cards.swf/ArmyCP_02_100.png",
+    "pic_square": "assets/game/characters/mercs/merc_cards.swf/ArmyCP_02_100.png"
+  },
+  "neighbor": true,
+  "worldName": "Cougar's Empire",
+  "titanName": "Cougar",
+  "expansions": {"data": [0,0,0,0,805306368,6291456,49152,0,0,0,0]},   
+  "recommendedFriends": false,
+  "zyngaFriends": false,
+  "empireFriends": false,
+  "sevenDayFriends": false,
+  "fourteenDayFriends": false,
+  "thirtyDayFriends": false,
+  "payerFriends": false,
+  "allFriends": true,
+  "zyngaFriendsByEngagement": false,
+  "empireFriendsByEngagement": false,
+  "appFriendId": -14,
+  "objects": null,
+  "roads": null
+}

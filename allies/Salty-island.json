@@ -1,0 +1,47 @@
+{
+  "info": {
+    "uid": -6,
+    "resource": 3,
+    "coins": 100,
+    "xp": 93,
+    "level": 10,
+    "socialXpGood": 5,
+    "socialLevelGood": 10,
+    "socialXpBad": 0,
+    "socialLevelBad": 0,
+    "profilePic": "assets/game/characters/mercs/merc_cards.swf/NavyCP_01_100.png",
+    "dominanceRank": 2,
+    "tending": {
+      "actions": 3
+    },
+    "inactive____pvpInfo": {"status":3, "ts": 1591142368, "pillTS":1591142368},
+    "pvpImmunityTimestamp": 1893456000
+  },
+  "friend": {
+    "zid": -6,
+    "uid": -6,
+    "first_name": "Salty",
+    "name": "Salty",
+    "sex": "M",
+    "portrait": "assets/game/characters/mercs/merc_cards.swf/NavyCP_01_100.png",
+    "pic": "assets/game/characters/mercs/merc_cards.swf/NavyCP_01_100.png",
+    "pic_square": "assets/game/characters/mercs/merc_cards.swf/NavyCP_01_100.png"
+  },
+  "neighbor": true,
+  "worldName": "Salty's Empire",
+  "titanName": "Salty",
+  "expansions": {"data": [0,0,0,0,805306368,6291456,49152,0,0,0,0]},   
+  "recommendedFriends": false,
+  "zyngaFriends": false,
+  "empireFriends": false,
+  "sevenDayFriends": false,
+  "fourteenDayFriends": false,
+  "thirtyDayFriends": false,
+  "payerFriends": false,
+  "allFriends": true,
+  "zyngaFriendsByEngagement": false,
+  "empireFriendsByEngagement": false,
+  "appFriendId": -6,
+  "objects": null,
+  "roads": null
+}
