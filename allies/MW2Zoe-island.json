@@ -1,0 +1,45 @@
+{
+  "info": {
+    "uid": -3,
+    "resource": 3,
+    "coins": 100,
+    "xp": 93,
+    "level": 6,
+    "socialXpGood": 0,
+    "socialLevelGood": 1,
+    "socialXpBad": 0,
+    "socialLevelBad": 1,
+    "pic_square": "assets/game/GeneralAssetGroup_UI.swf/MW2ZoeCP.png",
+    "dominanceRank": 0,
+    "tending": {
+      "actions": 3
+    }
+  },
+  "friend": {
+    "zid": -3,
+    "uid": -3,
+    "first_name": "Mark Zuckerberg",
+    "name": "Mark Zuckerberg",
+    "sex": "M",
+    "portrait": "assets/game/GeneralAssetGroup_UI.swf/MW2ZoeCP.png",
+    "pic": "assets/game/GeneralAssetGroup_UI.swf/MW2ZoeCP.png",
+    "pic_square": "assets/game/GeneralAssetGroup_UI.swf/MW2ZoeCP.png"
+  }, 
+  "neighbor": true,
+  "worldName": "",
+  "titanName": "",
+  "recommendedFriends": true,
+  "zyngaFriends": true,
+  "empireFriends": true,
+  "sevenDayFriends": false,
+  "fourteenDayFriends": false,
+  "thirtyDayFriends": false,
+  "payerFriends": false,
+  "allFriends": true,
+  "zyngaFriendsByEngagement": false,
+  "empireFriendsByEngagement": false,
+  "expansions": {"data": null},   
+  "appFriendId": -3,
+  "objects": null,
+  "roads": null
+}
